@@ -54,7 +54,7 @@ body {font-family:'Inter',sans-serif;color:white;min-height:100vh;display:flex;j
 .links {margin-top:30px;display:flex;gap:32px;justify-content:center;}
 .links i {
     font-size:40px;
-    color:white;
+    color:white; /* kesin beyaz */
     text-shadow:0 0 8px rgba(255,255,255,0.5);
     transition: transform 0.2s ease, text-shadow 0.2s ease;
 }
